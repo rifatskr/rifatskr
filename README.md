@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Md. Rifat Sarkar 👋</h1>
-<h3 align="center">UX Engineer | Frontend Developer | System Thinker</h3>
+<h3 align="center">UX Engineer at Oxolla</h3>
 
 <p align="center">
   <a href="https://rifatskr.github.io">
